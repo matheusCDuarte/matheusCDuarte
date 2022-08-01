@@ -8,7 +8,6 @@
  <div align="left">
    <h1>Redes Sociais</h1>
   </div>
-  <br>
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/matheuscduarte/" target="_blank"><img height="30" width="30" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" target="_blank"></a> 
 </div>
